@@ -33,7 +33,7 @@
 
         <script src="{{ asset('js/app.js') }}"></script>
         <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDkCyONAP7teMYwHSh5z46MT-ts8894VSs&callback=initMap&v=weekly"
+        src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly"
         async
         ></script>
         
